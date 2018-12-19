@@ -1,0 +1,26 @@
+{
+  "name": "REST",
+  "version": "1.0.0",
+  "description": "tutorial of theNetNinja",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tlenglin/tutorial-REST.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tlenglin/tutorial-REST/issues"
+  },
+  "homepage": "https://github.com/tlenglin/tutorial-REST#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.0"
+  },
+  "devDependencies": {}
+}
